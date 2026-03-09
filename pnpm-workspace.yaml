@@ -1,5 +1,6 @@
 catalogMode: prefer
 ignoreWorkspaceRootCheck: true
+cleanupUnusedCatalogs: true
 shellEmulator: true
 trustPolicy: no-downgrade
 strictPeerDependencies: false
