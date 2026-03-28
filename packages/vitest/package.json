@@ -121,7 +121,6 @@
     "*.d.cts",
     "*.d.ts",
     "*.mjs",
-    "bin",
     "browser",
     "dist"
   ],

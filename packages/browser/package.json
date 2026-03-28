@@ -53,8 +53,7 @@
     "*.d.ts",
     "context.js",
     "dist",
-    "dummy.js",
-    "providers"
+    "dummy.js"
   ],
   "scripts": {
     "typecheck": "tsc -p ./src/client/tsconfig.json --noEmit",
